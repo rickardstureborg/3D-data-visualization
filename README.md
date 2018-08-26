@@ -8,13 +8,6 @@ professor Charles DiMarzio at Northeastern University named 'hsi4'. Below is a d
 
 ## Special Features
 
-### Quick and easy
-> run from the Matlab command line
-
-Only 1 input: the 3-dimensional data cube.
-
-![](demo_gifs/launch.gif)
-
 ### Region of Interest (ROI) selection
 > click the `ROI` button
 
@@ -34,4 +27,7 @@ Prints well-labeled and nicely oriented figures of the currently chosen 2D slice
 
 You can turn crosshairs on and off so they aren't in the way. May be useful when the resolution is poor and crosshairs can obstruct part of the view.
 
-![](demo_gifs/crosshairs.gif)
+### Quick and easy
+> run from the Matlab command line: `vis3D(input)`
+
+Only 1 input: the 3-dimensional data cube.
